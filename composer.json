@@ -1,0 +1,17 @@
+{
+    "name": "tuto1902/five9-client",
+    "description": "A lightweight client for Five9 Config Web Services API",
+    "authors": [
+        {
+            "name": "Arturo Rojas",
+            "email": "arturo@silvertapllc.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tuto1902\\Five9Client\\": "./src/"
+        }
+    }
+}
